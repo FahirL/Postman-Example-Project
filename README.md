@@ -3,7 +3,7 @@
 This is Postman simple project for https://reqres.in/, where is hosted fake data. 
 
 
-## Installing
+## Installing project
 
 1) Download `.json file` onto your local machine
 2) Open Postman, click on Import and select the json file.
