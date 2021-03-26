@@ -16,6 +16,7 @@ This is Postman simple project for https://reqres.in/, where is hosted fake data
 
 ## Installing Postman 
 
-Postman is available as a native desktop app for Mac, Windows (32-bit / 64-bit), and Linux (32-bit / 64-bit) operating systems, and on the web at [LINK]( go.postman.co/build).
-Please visit official web for tutorial about install and update.
+Postman is available as a native desktop app for Mac, Windows (32-bit / 64-bit), and Linux (32-bit / 64-bit) operating systems, and on the web.
+Please visit  [official web](https://learning.postman.com/docs/getting-started/installation-and-updates/) for tutorial about install and update.
+
 
