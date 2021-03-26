@@ -4,7 +4,7 @@ This is Postman simple project for https://reqres.in/, where is hosted fake data
 
 
 # Gif
-
+![Alt Text](https://github.com/FahirL/Postman-Example-Project/blob/master/postmanexample.gif?raw=true)
 
 
 ## Installing project
