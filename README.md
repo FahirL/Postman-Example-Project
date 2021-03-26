@@ -1,6 +1,10 @@
 # Postman-Example-Project
 
-This is Postman simple project for https://reqres.in/, where is hosted fake data. 
+This is Postman simple project for https://reqres.in/, where is hosted fake data. I am use GET, PUT and POST, also is tested is it status code 200 or not. 
+
+
+# Gif
+
 
 
 ## Installing project
